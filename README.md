@@ -13,6 +13,7 @@ Lista de estudiantes del Máster en Innovación en Periodismo:
 - Los cambios introducidos en mi repositorio no se actualizan en origen
 - Para eso, puedes hacer los cambios aquí y solicitar un pull request allí, ¿puedes?
 - No me convence esta idea, por eso la cambio desde LOCAL
+- Puedo hacer cambios sin GIT?
 
 ```markdown
 Syntax highlighted code block
