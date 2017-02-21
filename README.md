@@ -1,44 +1,61 @@
-<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/beard-o7oGPYWTS4LGU">via GIPHY</a></p>
+###Introducir Github
 
-## Bienvenido a Github
+- Comunidad developers
+- Motor de páginas
+- Repositorio trabajos
+- Plataforma de código
 
-Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/master/README.md) que te ayudará a mantener y escribir tu material. 
+###Crear perfil
+- email
+- clave
 
-### Curso 2016-2017
+###Explorar GitHhub
+- Enseñar repositorios
+- Modo de buscar
+- Enseñar cuentas
+- Lenguajes
+- Tono y trucos
 
-Lista de estudiantes del Máster en Innovación en Periodismo: 
-- Miguel Carvajal
-- Pedro Pérez [Martinez](https://guides.github.com/activities/hello-world/)
-- La leche en bote 
-- Los cambios introducidos en mi repositorio no se actualizan en origen
-- Para eso, puedes hacer los cambios aquí y solicitar un pull request allí, ¿puedes?
-- No me convence esta idea, por eso la cambio desde LOCAL
-- Puedo hacer cambios sin GIT?
+###Crear un repositorio
+- nombrar: hola-mundo
+- Marcar readme.md
+- explorar repositorio
 
-```markdown
-Syntax highlighted code block
+###Publicar repositorio
+- establecer como Github Pages
+- cambiar readme.md
+- mirar la web
+- copiar dirección
+- actualizar encabezado
 
-# Header 1
-## Header 2
-### Header 3
+###Enganchar un repositorio ajeno
+- introducir cambios en el forkeado
+- fijarse bien 
+- ver cómo se visualizan
+- solicitar pull request
+- esperar a que nos hagan commit
 
-- Bulleted
-- List
+###Empezar una rama
+- Cambiar un doc ajeno
+- esperar a que hagan commit
+- aplicarlos sobre nuestra base
+- Abrir y fusionar pull request
 
-1. Numbered
-2. List
+GitHub Pages
+- Te permite crear repositorios de GitHub en una bonita y elegante páginas web 
+- para enseñar
+	- portfolio
+	- proyectos
+	- documentación
+	- cualquier cosa
+	- no hay BD
+	- ni servidores
+	- ni necesitas apenas Html
+GitHub "sirve" todos los proyectos que tienes desde una URL que se genera automáticamente cuando creas un repositorio con tu nombre
+	- usuario
+	- organización
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alumnimip/hola-mundo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ejercicio en repositorio
+- Settings
+- Convertir MasterBranch
+- Elegir tema
