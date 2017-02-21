@@ -7,6 +7,7 @@ Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/maste
 Lista de estudiantes del Máster en Innovación en Periodismo: 
 - Miguel Carvajal
 - Pedro Pérez [Martinez](https://guides.github.com/activities/hello-world/)
+- La leche en bote 
 
 ```markdown
 Syntax highlighted code block
