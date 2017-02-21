@@ -12,6 +12,7 @@ Lista de estudiantes del Máster en Innovación en Periodismo:
 - La leche en bote 
 - Los cambios introducidos en mi repositorio no se actualizan en origen
 - Para eso, puedes hacer los cambios aquí y solicitar un pull request allí, ¿puedes?
+- No me convence esta idea, por eso la cambio desde LOCAL
 
 ```markdown
 Syntax highlighted code block
