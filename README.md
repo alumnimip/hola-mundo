@@ -2,9 +2,11 @@
 
 Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/master/README.md) que te ayudará a mantener y escribir tu material. 
 
-### Markdown
+### Curso 2016-2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lista de estudiantes del Máster en Innovación en Periodismo: 
+- Miguel Carvajal
+- Pedro Pérez [Martinez](https://guides.github.com/activities/hello-world/)
 
 ```markdown
 Syntax highlighted code block
