@@ -1,4 +1,4 @@
-<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/beard-o7oGPYWTS4LGU">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 ## Bienvenido a Github
 
