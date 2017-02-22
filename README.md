@@ -7,7 +7,7 @@ Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/maste
 ### Curso 2016-2017
 
 Lista de estudiantes del Máster en Innovación en Periodismo:
-- Añade tu nombre y enlaza a tu web o perfil de Twitter
+- [Beatriz Martínez] (https://www.facebook.com/AdoptaUnCorrupto/)
 
 
 ```markdown
