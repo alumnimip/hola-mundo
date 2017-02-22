@@ -1,4 +1,4 @@
-<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/beard-o7oGPYWTS4LGU">via GIPHY</a></p>
 
 ## Bienvenido a Github
 
@@ -9,6 +9,7 @@ Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/maste
 Lista de estudiantes del Máster en Innovación en Periodismo:
 
 - Añade tu nombre y enlaza a tu web o perfil de Twitter
+-
 
 ```markdown
 Syntax highlighted code block
