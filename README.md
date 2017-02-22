@@ -1,14 +1,14 @@
-<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-
 ### Bienvenido a Github
 
 Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/master/README.md) que te ayudará a mantener y escribir tu material. 
 
-### Curso 2016-2017
+### Curso 2016-2017 
 
 Lista de estudiantes del Máster en Innovación en Periodismo:
-- Añade tu nombre y enlaza a tu web o perfil de Twitter
+
+- [Miguel Carvajal](https://twitter.com/mcarvajal_)
 -Ariadna Lopez Gallego[Ariadna Lopez](https://twitter.com/AriiadnaLopezG)
+
 
 ```markdown
 Syntax highlighted code block
