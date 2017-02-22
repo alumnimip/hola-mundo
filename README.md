@@ -8,7 +8,7 @@ Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/maste
 
 Lista de estudiantes del Máster en Innovación en Periodismo:
 - Añade tu nombre y enlaza a tu web o perfil de Twitter
-
+- [Sergi Escrivà](https://twitter.com/sergiescriva_14)
 
 ```markdown
 Syntax highlighted code block
