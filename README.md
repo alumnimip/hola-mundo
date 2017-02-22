@@ -1,4 +1,4 @@
-<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/beard-o7oGPYWTS4LGU">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/o7oGPYWTS4LGU?html5=true" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 ## Bienvenido a Github
 
@@ -7,14 +7,7 @@ Este es el [editor de GitHub](https://github.com/alumnimip/hola-mundo/edit/maste
 ### Curso 2016-2017
 
 Lista de estudiantes del Máster en Innovación en Periodismo: 
-- Miguel Carvajal
-- Pedro Pérez [Martinez](https://guides.github.com/activities/hello-world/)
-- La leche en bote 
-- Los cambios introducidos en mi repositorio no se actualizan en origen
-- Para eso, puedes hacer los cambios aquí y solicitar un pull request allí, ¿puedes?
-
-```markdown
-Syntax highlighted code block
+- Añade tu nombre y enlaza a tu web
 
 # Header 1
 ## Header 2
